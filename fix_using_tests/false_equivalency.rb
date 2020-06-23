@@ -11,9 +11,9 @@ def prompt_user
 end
 
 def selection(num)
-  num = 1
+  num === 1
     puts "YUM YUM MUNCH MUNCH MUNCH"
-  num = 2
+  num === 2
     puts "HAM HAM HAM IN MY TUMMY"
 end
 
