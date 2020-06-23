@@ -11,7 +11,6 @@ def prompt_user
 end
 
 def (selection(1))
-  num = 1
 puts "YUM YUM MUNCH MUNCH MUNCH"
 "YUM YUM MUNCH MUNCH MUNCH"
 
@@ -19,7 +18,6 @@ end
 
 
 def (selection (2))
-  num = 2
  puts "HAM HAM HAM IN MY TUMMY"
 "HAM HAM HAM IN MY TUMMY"
 end
