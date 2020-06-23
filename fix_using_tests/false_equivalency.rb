@@ -10,15 +10,13 @@ def prompt_user
   puts "2.) Eat a ham."
 end
 
-def selection
+def selection(1)
 puts "YUM YUM MUNCH MUNCH MUNCH"
 end
 
 
-def selection (num)
-  num = 2
+def selection (2)
  puts "HAM HAM HAM IN MY TUMMY"
-"HAM HAM HAM IN MY TUMMY"
 end
 
 def runner
