@@ -10,14 +10,16 @@ def prompt_user
   puts "2.) Eat a ham."
 end
 
-def (selection(1))
+def selection(num)
+  num = 1
 puts "YUM YUM MUNCH MUNCH MUNCH"
 "YUM YUM MUNCH MUNCH MUNCH"
 
 end
 
 
-def (selection (2))
+def selection (num)
+  num = 2
  puts "HAM HAM HAM IN MY TUMMY"
 "HAM HAM HAM IN MY TUMMY"
 end
