@@ -1,6 +1,5 @@
 require 'pry'
-
-# don't forget to add: require 'pry'
+pry.start 
 
 def get_user_input
   gets.chomp
