@@ -13,7 +13,6 @@ end
 def selection(eat_a_hamburger)
 puts "YUM YUM MUNCH MUNCH MUNCH"
 "YUM YUM MUNCH MUNCH MUNCH"
-
 end
 
 
@@ -22,7 +21,6 @@ def selection (num)
  puts "HAM HAM HAM IN MY TUMMY"
 "HAM HAM HAM IN MY TUMMY"
 end
-binding.pry
 
 def runner
   prompt_user
