@@ -13,7 +13,6 @@ end
 def selection(eat_a_hamburger)
   eat_a_hamburge = "1.) Eat a hamburger."
 puts "YUM YUM MUNCH MUNCH MUNCH"
-"YUM YUM MUNCH MUNCH MUNCH"
 end
 
 
