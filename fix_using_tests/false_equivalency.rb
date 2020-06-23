@@ -10,8 +10,8 @@ def prompt_user
   puts "2.) Eat a ham."
 end
 
-def selection(eat_a_hamburger)
-  eat_a_hamburge = "1.) Eat a hamburger."
+def selection(prompt_user)
+  prompt_user= "1.) Eat a hamburger."
 puts "YUM YUM MUNCH MUNCH MUNCH"
 end
 
