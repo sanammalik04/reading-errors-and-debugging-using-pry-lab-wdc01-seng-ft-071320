@@ -11,7 +11,6 @@ def prompt_user
 end
 
 def selection(prompt_user)
-  prompt_user= "1.) Eat a hamburger."
 puts "YUM YUM MUNCH MUNCH MUNCH"
 end
 
