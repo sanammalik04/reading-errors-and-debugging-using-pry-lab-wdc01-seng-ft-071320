@@ -16,10 +16,9 @@ puts "YUM YUM MUNCH MUNCH MUNCH"
 end
 
 
-def selection (num)
-  num = 2
+def selection (num2)
+  num2 = "2.) Eat a ham."
  puts "HAM HAM HAM IN MY TUMMY"
-"HAM HAM HAM IN MY TUMMY"
 end
 
 
