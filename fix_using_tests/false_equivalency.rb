@@ -12,13 +12,13 @@ end
 
 def selection(num1)
   num1 = "1.) Eat a hamburger."
-puts "YUM YUM MUNCH MUNCH MUNCH"
+return "YUM YUM MUNCH MUNCH MUNCH"
 end
 
 
 def selection (num2)
   num2 = "2.) Eat a ham."
- puts "HAM HAM HAM IN MY TUMMY"
+ return "HAM HAM HAM IN MY TUMMY"
 end
 
 
