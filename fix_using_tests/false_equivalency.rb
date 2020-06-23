@@ -1,5 +1,4 @@
 require 'pry'
-pry.start 
 
 def get_user_input
   gets.chomp
