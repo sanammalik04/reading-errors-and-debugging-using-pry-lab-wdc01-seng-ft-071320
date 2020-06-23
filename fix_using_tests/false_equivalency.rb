@@ -24,7 +24,7 @@ def selection (num)
  puts "HAM HAM HAM IN MY TUMMY"
 "HAM HAM HAM IN MY TUMMY"
 end
-
+binding.pry
 
 def runner
   prompt_user
