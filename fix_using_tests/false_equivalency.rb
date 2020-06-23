@@ -13,7 +13,7 @@ end
 def selection(num)
   num = 1
 puts "YUM YUM MUNCH MUNCH MUNCH"
-binding.pry
+
 end
 
 
