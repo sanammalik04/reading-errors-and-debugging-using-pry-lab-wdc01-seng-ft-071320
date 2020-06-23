@@ -12,12 +12,9 @@ end
 
 def selection(num)
   num = 1
-puts "YUM YUM MUNCH MUNCH MUNCH"
-end
-binding.pry
-def selection (num)
+    puts "YUM YUM MUNCH MUNCH MUNCH"
   num = 2
- puts "HAM HAM HAM IN MY TUMMY"
+    puts "HAM HAM HAM IN MY TUMMY"
 end
 
 def runner
